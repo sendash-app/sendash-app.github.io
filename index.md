@@ -9,8 +9,9 @@ title: Hyperspace by HTML5 UP
 <div id="wrapper">
 
 <!-- Intro -->
-<section id="intro" class="wrapper style1 fullscreen fade-up">
+<section id="intro" class="wrapper style2 fullscreen fade-up">
 	<div class="inner">
+		<!-- <a href="#" class="image"><img src="{{site.logo_url}}" alt="" data-position="" /></a> -->
 		<h1>{{ site.title }}</h1>
 		<p>{{ site.description }}</p>
 		<ul class="actions">
@@ -19,8 +20,9 @@ title: Hyperspace by HTML5 UP
 	</div>
 </section>
 
+{% include overview.html %}
 {% include features.html %}
-{% include portfolio.html %}
+{% include team.html %}
 {% include contact.html %}
 
 

@@ -13,6 +13,9 @@ baseurl: #"/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: #"https://sendash-app.github.io" # the base hostname & protocol for your site
 puburl:
 
+# Custom
+logo_url: https://github.com/sendash-app/dashboard/raw/master/assets/sendash_logo_v1.png
+
 # Social settings
 500px_url:
 facebook_url: https://facebook.com
