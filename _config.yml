@@ -8,8 +8,8 @@
 # Site settings
 title: SENDASH
 email: youremailaddress@gmail.com
-description: Overnight News Sentiments Dashboard to help you Trade the Open
-footnote: '<li>&copy; Made with &hearts; by Sendash.</li><li>All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>'
+description: Overnight News Sentiment Dashboard to Help you Trade the Open
+footnote: '<li>&copy; Made with &hearts; by SENDASH.</li><li>All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>'
 baseurl: #"/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: #"https://sendash-app.github.io" # the base hostname & protocol for your site
 puburl:
